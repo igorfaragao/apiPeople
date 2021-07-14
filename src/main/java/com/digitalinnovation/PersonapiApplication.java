@@ -1,4 +1,4 @@
-package com.digitalinnovation.mapper;
+package com.digitalinnovation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
